@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Home",
+        "path": "/",
+        "cName": "nav-links",
+        "icon": "<CiHome />"
+    },
+    {
+        "title": "About",
+        "path": "/about",
+        "cName": "nav-links",
+        "icon": "<CiInfo />"
+    }, 
+    {
+        "title": "Services",
+        "path": "/services",
+        "cName": "nav-links",
+        "icon": "<MdHomeRepairService />"
+    },
+    {
+        "title": "Contact",
+        "path": "/contact",
+        "cName": "nav-links",
+        "icon": "<MdContactPage />"
+    },
+    {
+        "title": "Sign Up",
+        "path": "/signup",
+        "cName": "nav-links-mobile"
+    }
+    ]
